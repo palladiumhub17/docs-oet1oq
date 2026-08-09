@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-omdhbd.pulaucuan.sbs/sitemap.xml
